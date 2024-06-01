@@ -29,8 +29,8 @@ RTK (Real-Time Kinematic) is a project aimed at implementing precise positioning
 The program will start processing GNSS data for real-time kinematic positioning.
 
 ## Project Structure
-GNSS_PROGRAM/: Contains the source code for GNSS processing.
-GNSS_PROGRAM.sln: Solution file for building the project.
+- GNSS_PROGRAM/: Contains the source code for GNSS processing.
+- GNSS_PROGRAM.sln: Solution file for building the project.
 
 ## Contact
 For any inquiries or feedback, please contact akui1321.
